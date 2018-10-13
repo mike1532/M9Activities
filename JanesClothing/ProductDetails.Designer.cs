@@ -51,7 +51,7 @@
             // lblProductID
             // 
             this.lblProductID.AutoSize = true;
-            this.lblProductID.Location = new System.Drawing.Point(41, 66);
+            this.lblProductID.Location = new System.Drawing.Point(44, 66);
             this.lblProductID.Name = "lblProductID";
             this.lblProductID.Size = new System.Drawing.Size(82, 18);
             this.lblProductID.TabIndex = 0;
@@ -59,7 +59,7 @@
             // 
             // txtProductID
             // 
-            this.txtProductID.Location = new System.Drawing.Point(221, 60);
+            this.txtProductID.Location = new System.Drawing.Point(221, 63);
             this.txtProductID.Name = "txtProductID";
             this.txtProductID.Size = new System.Drawing.Size(199, 24);
             this.txtProductID.TabIndex = 1;
@@ -67,7 +67,7 @@
             // lblBrandID
             // 
             this.lblBrandID.AutoSize = true;
-            this.lblBrandID.Location = new System.Drawing.Point(41, 103);
+            this.lblBrandID.Location = new System.Drawing.Point(44, 109);
             this.lblBrandID.Name = "lblBrandID";
             this.lblBrandID.Size = new System.Drawing.Size(69, 18);
             this.lblBrandID.TabIndex = 2;
@@ -77,7 +77,7 @@
             // 
             this.cbBrandID.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbBrandID.FormattingEnabled = true;
-            this.cbBrandID.Location = new System.Drawing.Point(221, 100);
+            this.cbBrandID.Location = new System.Drawing.Point(221, 106);
             this.cbBrandID.Name = "cbBrandID";
             this.cbBrandID.Size = new System.Drawing.Size(199, 26);
             this.cbBrandID.TabIndex = 3;
@@ -85,7 +85,7 @@
             // lblProductDescription
             // 
             this.lblProductDescription.AutoSize = true;
-            this.lblProductDescription.Location = new System.Drawing.Point(41, 146);
+            this.lblProductDescription.Location = new System.Drawing.Point(44, 152);
             this.lblProductDescription.Name = "lblProductDescription";
             this.lblProductDescription.Size = new System.Drawing.Size(143, 18);
             this.lblProductDescription.TabIndex = 4;
@@ -135,7 +135,7 @@
             // rbUnisex
             // 
             this.rbUnisex.AutoSize = true;
-            this.rbUnisex.Location = new System.Drawing.Point(346, 232);
+            this.rbUnisex.Location = new System.Drawing.Point(346, 236);
             this.rbUnisex.Name = "rbUnisex";
             this.rbUnisex.Size = new System.Drawing.Size(74, 22);
             this.rbUnisex.TabIndex = 11;
@@ -146,7 +146,7 @@
             // rbFemale
             // 
             this.rbFemale.AutoSize = true;
-            this.rbFemale.Location = new System.Drawing.Point(290, 232);
+            this.rbFemale.Location = new System.Drawing.Point(290, 236);
             this.rbFemale.Name = "rbFemale";
             this.rbFemale.Size = new System.Drawing.Size(38, 22);
             this.rbFemale.TabIndex = 10;
@@ -157,7 +157,7 @@
             // rbMale
             // 
             this.rbMale.AutoSize = true;
-            this.rbMale.Location = new System.Drawing.Point(221, 232);
+            this.rbMale.Location = new System.Drawing.Point(221, 236);
             this.rbMale.Name = "rbMale";
             this.rbMale.Size = new System.Drawing.Size(42, 22);
             this.rbMale.TabIndex = 9;
@@ -168,7 +168,7 @@
             // lblGender
             // 
             this.lblGender.AutoSize = true;
-            this.lblGender.Location = new System.Drawing.Point(44, 234);
+            this.lblGender.Location = new System.Drawing.Point(44, 238);
             this.lblGender.Name = "lblGender";
             this.lblGender.Size = new System.Drawing.Size(61, 18);
             this.lblGender.TabIndex = 8;
@@ -176,7 +176,7 @@
             // 
             // txtPrice
             // 
-            this.txtPrice.Location = new System.Drawing.Point(221, 186);
+            this.txtPrice.Location = new System.Drawing.Point(221, 192);
             this.txtPrice.Name = "txtPrice";
             this.txtPrice.Size = new System.Drawing.Size(199, 24);
             this.txtPrice.TabIndex = 7;
@@ -184,7 +184,7 @@
             // lblPrice
             // 
             this.lblPrice.AutoSize = true;
-            this.lblPrice.Location = new System.Drawing.Point(44, 189);
+            this.lblPrice.Location = new System.Drawing.Point(44, 195);
             this.lblPrice.Name = "lblPrice";
             this.lblPrice.Size = new System.Drawing.Size(46, 18);
             this.lblPrice.TabIndex = 6;
@@ -192,7 +192,7 @@
             // 
             // txtProductDescription
             // 
-            this.txtProductDescription.Location = new System.Drawing.Point(221, 143);
+            this.txtProductDescription.Location = new System.Drawing.Point(221, 149);
             this.txtProductDescription.Name = "txtProductDescription";
             this.txtProductDescription.Size = new System.Drawing.Size(199, 24);
             this.txtProductDescription.TabIndex = 5;

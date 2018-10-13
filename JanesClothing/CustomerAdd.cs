@@ -19,7 +19,10 @@ namespace JanesClothing
 
         private void frmCustomerAdd_FormClosing(object sender, FormClosingEventArgs e)
         {
-            //code to close current form
+            //when closing, shows main form and hides add customer form
+            frmMainForm mainForm = new frmMainForm();
+            mainForm.Show();
+            Hide();
         }
 
         private void btnAdd_Click(object sender, EventArgs e)
@@ -29,7 +32,8 @@ namespace JanesClothing
 
         private void btnCancel_Click(object sender, EventArgs e)
         {
-            //code to clear all text boxes
+            //closes form
+            Close();
         }
     }
 }

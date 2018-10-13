@@ -10,27 +10,25 @@ using System.Windows.Forms;
 
 namespace JanesClothing
 {
-    public partial class frmProductDetails : Form
+    public partial class frmCustomersEdit : Form
     {
-        public frmProductDetails()
+        public frmCustomersEdit()
         {
             InitializeComponent();
         }
 
-        private void frmProductDetails_FormClosing(object sender, FormClosingEventArgs e)
+        private void frmCustomersEdit_FormClosing(object sender, FormClosingEventArgs e)
         {
-            //close form
-            Close();
-        }
-
-        private void btnAdd_Click(object sender, EventArgs e)
-        {
-
+            //closes form/displays main form
+            frmMainForm mainForm = new frmMainForm();
+            mainForm.Show();
+            Hide();
         }
 
         private void btnCancel_Click(object sender, EventArgs e)
         {
-
+            //closes form
+            this.Close();
         }
     }
 }
