@@ -71,7 +71,7 @@
             // 
             // txtFirstName
             // 
-            this.txtFirstName.Location = new System.Drawing.Point(97, 36);
+            this.txtFirstName.Location = new System.Drawing.Point(97, 37);
             this.txtFirstName.Name = "txtFirstName";
             this.txtFirstName.Size = new System.Drawing.Size(174, 24);
             this.txtFirstName.TabIndex = 1;
@@ -111,7 +111,7 @@
             // lblGender
             // 
             this.lblGender.AutoSize = true;
-            this.lblGender.Location = new System.Drawing.Point(7, 129);
+            this.lblGender.Location = new System.Drawing.Point(7, 126);
             this.lblGender.Name = "lblGender";
             this.lblGender.Size = new System.Drawing.Size(57, 18);
             this.lblGender.TabIndex = 6;
@@ -120,7 +120,7 @@
             // rbMale
             // 
             this.rbMale.AutoSize = true;
-            this.rbMale.Location = new System.Drawing.Point(97, 127);
+            this.rbMale.Location = new System.Drawing.Point(97, 124);
             this.rbMale.Name = "rbMale";
             this.rbMale.Size = new System.Drawing.Size(61, 22);
             this.rbMale.TabIndex = 3;
@@ -131,7 +131,7 @@
             // rbFemale
             // 
             this.rbFemale.AutoSize = true;
-            this.rbFemale.Location = new System.Drawing.Point(193, 127);
+            this.rbFemale.Location = new System.Drawing.Point(193, 124);
             this.rbFemale.Name = "rbFemale";
             this.rbFemale.Size = new System.Drawing.Size(78, 22);
             this.rbFemale.TabIndex = 4;
@@ -151,7 +151,7 @@
             // chkYes
             // 
             this.chkYes.AutoSize = true;
-            this.chkYes.Location = new System.Drawing.Point(146, 80);
+            this.chkYes.Location = new System.Drawing.Point(130, 80);
             this.chkYes.Name = "chkYes";
             this.chkYes.Size = new System.Drawing.Size(55, 22);
             this.chkYes.TabIndex = 11;
@@ -161,7 +161,7 @@
             // chkNo
             // 
             this.chkNo.AutoSize = true;
-            this.chkNo.Location = new System.Drawing.Point(224, 80);
+            this.chkNo.Location = new System.Drawing.Point(191, 80);
             this.chkNo.Name = "chkNo";
             this.chkNo.Size = new System.Drawing.Size(50, 22);
             this.chkNo.TabIndex = 12;
@@ -213,7 +213,7 @@
             // lblLastName
             // 
             this.lblLastName.AutoSize = true;
-            this.lblLastName.Location = new System.Drawing.Point(7, 81);
+            this.lblLastName.Location = new System.Drawing.Point(7, 83);
             this.lblLastName.Name = "lblLastName";
             this.lblLastName.Size = new System.Drawing.Size(84, 18);
             this.lblLastName.TabIndex = 16;
@@ -245,7 +245,7 @@
             // lblCategory
             // 
             this.lblCategory.AutoSize = true;
-            this.lblCategory.Location = new System.Drawing.Point(6, 170);
+            this.lblCategory.Location = new System.Drawing.Point(6, 169);
             this.lblCategory.Name = "lblCategory";
             this.lblCategory.Size = new System.Drawing.Size(72, 18);
             this.lblCategory.TabIndex = 20;
@@ -254,7 +254,7 @@
             // cbCategory
             // 
             this.cbCategory.FormattingEnabled = true;
-            this.cbCategory.Location = new System.Drawing.Point(97, 167);
+            this.cbCategory.Location = new System.Drawing.Point(97, 166);
             this.cbCategory.Name = "cbCategory";
             this.cbCategory.Size = new System.Drawing.Size(174, 26);
             this.cbCategory.TabIndex = 5;

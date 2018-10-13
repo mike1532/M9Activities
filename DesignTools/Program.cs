@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace JanesClothing
+namespace DesignTools
 {
     static class Program
     {
@@ -16,8 +16,7 @@ namespace JanesClothing
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //runs main form when you load the program
-            Application.Run(new frmMainForm());
+            Application.Run(new Form1());
         }
     }
 }

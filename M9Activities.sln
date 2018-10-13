@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenDialogBoxes", "Screen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JanesClothing", "JanesClothing\JanesClothing.csproj", "{AEF63A44-080C-434A-B9DE-B5B41EA83EEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignTools", "DesignTools\DesignTools.csproj", "{2D834D3C-298C-465F-A76B-4AD193B51F49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{AEF63A44-080C-434A-B9DE-B5B41EA83EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEF63A44-080C-434A-B9DE-B5B41EA83EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEF63A44-080C-434A-B9DE-B5B41EA83EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D834D3C-298C-465F-A76B-4AD193B51F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D834D3C-298C-465F-A76B-4AD193B51F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D834D3C-298C-465F-A76B-4AD193B51F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D834D3C-298C-465F-A76B-4AD193B51F49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
