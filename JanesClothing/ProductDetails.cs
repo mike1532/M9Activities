@@ -10,26 +10,26 @@ using System.Windows.Forms;
 
 namespace JanesClothing
 {
-    public partial class frmCustomerAdd : Form
+    public partial class frmProductDetails : Form
     {
-        public frmCustomerAdd()
+        public frmProductDetails()
         {
             InitializeComponent();
         }
 
-        private void frmCustomerAdd_FormClosing(object sender, FormClosingEventArgs e)
+        private void frmProductDetails_FormClosing(object sender, FormClosingEventArgs e)
         {
-            //code to close current form
+
         }
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            //code to add customer details
+
         }
 
         private void btnCancel_Click(object sender, EventArgs e)
         {
-            //code to clear all text boxes
+
         }
     }
 }
